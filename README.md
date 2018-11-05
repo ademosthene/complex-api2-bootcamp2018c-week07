@@ -1,22 +1,25 @@
-# 📊 Week07 Bootcamp2018c Project: Complex API 2
+# NASA Picture of the Day
+User may enter a date and view NASA's picture of the day.
 
-### Goal: Use data returned from one api to make a request to another api and display the data returned
+**Link to project:** https://gallant-pasteur-e1c256.netlify.com/
 
-### How to submit your code for review:
+![alt tag](nasa.png)
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+## How It's Made:
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+**Tech used:** HTML5, CSS3, JavaScript, and NASA's API.
+
+This project was written in JavaScript using the fetch method to access the NASA API. When a user enters a date in the appropriate format, the API return the NASA photo of the day. If the media file is a video, the video is displayed in the browser. This project was designed using CSS3.
+
+## Lessons Learned:
+
+This project furthered my understanding of APIs.
+
+## Related Projects:
+Take a look at these projects that I have in my portfolio:
+
+**Weather API:** https://github.com/alecortega/palettable
+
+**NASA Weather API:** https://github.com/alecortega/twitter-battle
+
+**Pokemon API:** https://github.com/alecortega/patch-panel
