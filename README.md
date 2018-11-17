@@ -18,8 +18,8 @@ This project furthered my understanding of APIs.
 ## Related Projects:
 Take a look at these projects that I have in my portfolio:
 
-**NASA Photo of the Day API:** https://gallant-pasteur-e1c256.netlify.com/
+**New Recipe & Fact:** https://friendly-snyder-f7f591.netlify.com/
 
-**NASA Weather API:** https://github.com/alecortega/twitter-battle
+**NASA Photo API:** https://gallant-pasteur-e1c256.netlify.com/
 
-**Pokemon API:** https://github.com/alecortega/patch-panel
+**Pokemon API:** https://admiring-cray-e04cdb.netlify.com/
